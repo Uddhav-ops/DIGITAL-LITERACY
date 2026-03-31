@@ -43,7 +43,7 @@ Cyber Defense: Analyzing real-world cybercrime case studies and establishing pre
 ## 🖇️ Links
 **📃 Google Form Quiz :**
 
-https://docs.google.com/forms/d/e/1FAIpQLSfxcMV1pW5UwaiuK6bvAkl1JFsotcfDpGWeUNWcslZt939rwQ/viewform?usp=publish-editor
+https://docs.google.com/forms/d/e/1FAIpQLSehfTDylIGxYC27MpfHkypuPOjulKVDGkumUB4FjTXat1MbPQ/viewform?usp=dialog
 
 **👩🏻‍💻 Github :**
 
